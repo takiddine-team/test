@@ -1,0 +1,10 @@
+@media (max-width: 1366px) and (min-width: 0px) {
+    section.services a.main-btn.btn-purple:hover {
+        padding: 5px 25px;
+    }
+}
+
+
+/**********************Mobile************************/
+
+@media (max-width: 600px) and (min-width: 0px) {}
